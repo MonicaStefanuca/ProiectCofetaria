@@ -1,0 +1,5 @@
+1;Aioanei;Viorica;40;Director;
+2;Paval;Dorin;33;Manager;
+3;Hritcu;Diana;28;Casier;
+4;Mirauta;Dana;20;Ingrijitor;
+5;Ionescu;Mirela;21;Ingrijitor;6;Antonescu;Ana-Maria;25;Casier;
