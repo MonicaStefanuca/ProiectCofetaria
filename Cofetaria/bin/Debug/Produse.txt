@@ -1,0 +1,27 @@
+1;Alice cu Fructe;13;150;Prajitura;12
+2;Amandina;9;150;Prajitura;14
+3;Cheesecake cu zmeura;11;150;Prajitura;14
+4;Cremsnit;8;100;Prajitura;14
+5;Lamaita;10;150;Prajitura;14
+6;Macarons;5;50;Biscuiti;14
+7;Merengue cu Arahide;11;150;Prajitura;14
+8;Dobos;10;125;Prajitura;23
+9;Polara;13;130;Prajitura;19
+10;Alba ca Zapada;12;150;Prajitura;25
+11;Ecler cu vanilie;9;100;Prajitura;40
+12;Violete;10;150;Prajitura;20
+13;Nory;10;125;Prajitura;23
+14;Regina;11;200;Prajitura;24
+15;Lemon;10;125;Prajitura;25
+16;Luna;8;100;Prajitura;25
+17;Florenta;11;150;Prajitura;24
+18;Fulg de nea;10;125;Prajitura;25
+19;Orient;8;100;Prajitura;40
+20;Passion;10;125;Prajitura;20
+21;Armeneasca;11;200;Prajitura;23
+22;Sacher;11;150;Prajitura;24
+23;Delica;10;120;Prajitura;20
+24;Tavalita;8;100;Prajitura;25
+25;Figaro;11;200;Prajitura;24
+26;Florester;10;125;Prajitura;30
+27;Tasties;10;120;Prajitura;20

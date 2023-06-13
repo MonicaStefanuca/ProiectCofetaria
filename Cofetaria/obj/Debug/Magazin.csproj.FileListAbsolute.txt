@@ -1,0 +1,12 @@
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\Magazin.exe.config
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\Magazin.exe
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\Magazin.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\obj\Debug\Magazin.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\obj\Debug\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\obj\Debug\Magazin.exe
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\obj\Debug\Magazin.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\NivelStocareDate.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\NivelStocareDate.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\obj\Debug\Magazin.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\LibrarieModele.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\Magazin\bin\Debug\LibrarieModele.pdb
