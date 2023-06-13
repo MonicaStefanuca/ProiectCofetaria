@@ -1,0 +1,51 @@
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe.config
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\UI_WindowsForms.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.Properties.Resources.resources
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.exe
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form1.resources
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\LibrarieModele.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\NivelStocareDate.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\LibrarieModele.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\bin\Debug\NivelStocareDate.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CopyComplete
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe.config
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\UI_WindowsForms.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\NivelStocareDate.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\bin\Debug\NivelStocareDate.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form1.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.Properties.Resources.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CopyComplete
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.exe
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form2.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form3.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe.config
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\UI_WindowsForms.exe
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\UI_WindowsForms.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\NivelStocareDate.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\bin\Debug\NivelStocareDate.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form1.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form2.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.Form3.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.Properties.Resources.resources
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.csproj.CopyComplete
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.exe
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\UI_WindowsForms\obj\Debug\UI_WindowsForms.pdb
