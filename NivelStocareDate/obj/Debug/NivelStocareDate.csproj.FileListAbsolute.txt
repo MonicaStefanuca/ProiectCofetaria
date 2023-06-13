@@ -1,0 +1,27 @@
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
