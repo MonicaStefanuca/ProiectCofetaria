@@ -1,0 +1,18 @@
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\Sebastian\Desktop\New folder\Proiect bun\Magazin\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Magazin\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Nicu\Desktop\FACULTATE\Monica FIESC\an II\sem 2\PIU\Cofetaria\LibrarieModele\obj\Debug\LibrarieModele.pdb
